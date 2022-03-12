@@ -22,9 +22,9 @@ public class TencentCOS {
     // 此处填写的存储桶名称
     private static final String bucketName = "health-project-1309825694";
     // secretId
-    private static final String secretId = "AKIDlMhlY5LL4UeX9UaQ0JM8cpmSrzsWu2tU";
+    private static final String secretId = "";
     // secretKey
-    private static final String secretKey = "LPCjyxe4D5h27wUlmWy93h4A0bw0nhMj";
+    private static final String secretKey = "";
 
     // 1 初始化用户身份信息(secretId, secretKey，可在腾讯云后台中的API密钥管理中查看！
     private static final COSCredentials cred = new BasicCOSCredentials(secretId,secretKey);
