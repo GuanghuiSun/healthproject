@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.healthproject.mapper.CheckGroupMapper">
+<!--    <resultMap id="checkGroupMap" type="com.healthproject.model.CheckGroup">-->
+<!--        <id column="id" property="id"/>-->
+<!--        <result column="code" property="code"/>-->
+<!--        <result column="name" property="name"/>-->
+<!--        <result column="helpCode" property="helpCode"/>-->
+<!--        <result column="sex" property="sex"/>-->
+<!--        <result column="remark" property="remark"/>-->
+<!--        <result column="attention" property="attention"/>-->
+<!--        <result column="is_deleted" property="isDeleted"/>-->
+<!--        <collection property="checkItems" ofType="com.healthproject.model.CheckItem">-->
+<!--            <id column="checkitem_id" property="id"/>-->
+<!--            <result column="icode" property="code"/>-->
+<!--            <result column="iname" property="name"/>-->
+<!--            <result column="isex" property="sex"/>-->
+<!--            <result column="age" property="age"/>-->
+<!--            <result column="price" property="type"/>-->
+<!--            <result column="type" property="type"/>-->
+<!--            <result column="iattention" property="attention"/>-->
+<!--            <result column="iremark" property="remark"/>-->
+<!--            <result column="iis_deleted" property="isDeleted"/>-->
+<!--        </collection>-->
+<!--    </resultMap>-->
+
+
+</mapper>
